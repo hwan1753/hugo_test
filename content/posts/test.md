@@ -1,11 +1,11 @@
 ---
-title: choonsik life
+title: test post
 date: 2024-09-29T16:45:00+09:00
 lastmod: 2024-09-29T16:45:00+09:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /images/test1.jpg
+cover: /images/choon.jpg
 # images:
 #   - /img/cover.jpg
 categories:

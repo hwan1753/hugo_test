@@ -1,6 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'dream'
+
+[params]
 lightTheme = "emerald"
 darkTheme = "forest"
+
+images = ["me/test.jpg"]
+author = "hwanii"
+description = "test hwan"
+avatar = "/images/test.jpg"
+headerTitle = "Test Hwan"
+
+# options
+stickyNav = true
+# reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
