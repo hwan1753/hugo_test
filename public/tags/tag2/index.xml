@@ -9,24 +9,10 @@
     <lastBuildDate>Sun, 29 Sep 2024 16:45:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>choonsik life</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Ttt</title>
+      <link>http://localhost:1313/posts/ttt/</link>
       <pubDate>Sun, 29 Sep 2024 16:45:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test post</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Sun, 29 Sep 2024 16:45:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>나는야 춘식이</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Sun, 29 Sep 2024 16:45:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <guid>http://localhost:1313/posts/ttt/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
   </channel>

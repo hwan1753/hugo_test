@@ -1,8 +1,8 @@
-baseURL = 'https://hwan1753.github.io/hugo_test/'
+baseURL = 'https://hwan1753.github.io/'
+#baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "dream"
-themesDir = "themes"
+theme = 'dream'
 
 [params]
 lightTheme = "emerald"
