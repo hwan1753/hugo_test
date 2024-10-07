@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hwan1753.github.io/hugo_test/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'dream'
+theme = "dream"
 
 [params]
 lightTheme = "emerald"
