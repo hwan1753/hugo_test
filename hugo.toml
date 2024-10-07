@@ -2,6 +2,7 @@ baseURL = 'https://hwan1753.github.io/hugo_test/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "dream"
+themesDir = "themes"
 
 [params]
 lightTheme = "emerald"
